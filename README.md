@@ -106,3 +106,7 @@ Este proyecto de central de autobuses está cuidadosamente diseñado para propor
 Además, el sistema está diseñado para ser escalable y adaptable, lo que permite futuras expansiones y mejoras. Por ejemplo, se podrían añadir nuevas funcionalidades como la gestión de reservas en línea, seguimiento en tiempo real de los camiones, integración con sistemas de pago, y más. La arquitectura del software está pensada para facilitar estas ampliaciones sin comprometer el rendimiento o la estabilidad del sistema.
 
 Este proyecto no solo aborda las necesidades actuales de una central de autobuses, sino que también se anticipa a futuras exigencias, proporcionando una solución robusta y flexible que puede evolucionar con el tiempo. Así, se garantiza que la central de autobuses pueda ofrecer un servicio de alta calidad a sus usuarios mientras se adapta a los cambios y demandas del mercado.
+
+
+https://github.com/user-attachments/assets/1cfefeb9-6427-4a9e-a815-6a7ab5f1df6b
+
